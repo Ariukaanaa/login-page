@@ -3,7 +3,7 @@ const registerBtn = document.getElementById("register");
 const loginBtn    =  document.getElementById("login"); 
 
 // end odoo merge uusgene 
-const loginn = document.getElementById("login"); 
+const mainloginn = document.getElementById("login"); 
 
 
 
