@@ -4,7 +4,7 @@ const loginBtn    =  document.getElementById("login");
 
 // end odoo merge uusgene 
 const devLoginn = document.getElementById("login"); 
-// ariuka shuu 
+// ariuka shuu odoo ene deer conflit garhgui bol shantarlaa
 
 
 
