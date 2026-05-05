@@ -8,11 +8,7 @@ const loginBtn    =  document.getElementById("login");
 
 // end odoo merge uusgene 
 const devLoginn = document.getElementById("login"); 
-// ariuka shuu 
-
-
-
-
+// ariuka shuu odoo ene dev sddddddddddddddddddddddddaaaaaaaaaaaa
 
 
 
