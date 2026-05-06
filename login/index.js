@@ -12,6 +12,8 @@ registerBtn.addEventListener('click', (e) => {
     container.classList.add("active");
 });
 
+const 
+
 loginBtn.addEventListener('click', (e) => {
     e.preventDefault();
     container.classList.remove("active");
